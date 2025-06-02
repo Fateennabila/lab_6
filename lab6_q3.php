@@ -15,7 +15,7 @@ $width = 2;
 
 $area = calculateArea($length, $width);
 
-echo "The area of a rectangle with a width of $length and $width is $area.";
+echo "<strong>The area of a rectangle with a width of $length and $width is $area.<strong>";
 ?>
 
 </body>
